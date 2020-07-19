@@ -1,3 +1,29 @@
 https://www.youtube.com/watch?v=T7PnWnTgusc&t=433s
 
 Responsive Personal Portfolio Website [PART 1] | HTML and CSS Tutorial
+
+
+https://www.youtube.com/watch?v=60v3PKVjM2Q
+CSS Card Hover Effects | 3D Flip
+
+https://www.youtube.com/watch?v=AKmoccuRiN4
+Page Animations With Javascript Tutorial
+
+https://www.youtube.com/watch?v=ex7jGbyFgpA
+Neon Light Button Animation Effects on Hover | CSS Snake Border
+
+https://www.youtube.com/watch?v=weZFfrjF-k4
+Javascript Clock | CSS Neumorphism Working Analog Clock UI Design
+
+https://www.youtube.com/watch?v=v1PeTDrw6OY
+Awesome CSS Search Box Using Only HTML & CSS
+
+https://www.youtube.com/watch?v=L5WWrGMsnpw
+How To Make Login & Registration Form Using HTML And CSS Step By Step
+
+https://www.youtube.com/watch?v=FZQxPTV3cFk
+Build a Responsive Website with Animations | HTML 5 and CSS 3 Tutorial
+
+https://www.youtube.com/watch?v=CGVI_mnnO50
+Creating an Animated 404 Page using HTML & CSS | Responsive Web Design
+
