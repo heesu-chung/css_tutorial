@@ -1,24 +1,27 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     font-family: sans-serif;
 
 }
+
 .front{
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4)),  url(background.png);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)),  url(background.png);
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
     position: relative;
 }
+
 .nav-bar{
     display: flex;
-    padding: 40px 120px;
+    padding: 50px 100px;
 }
 
+
 .nav-logo img{
-    width:40px;
+    width: 40px;
 }
 
 .nav-links{
@@ -46,32 +49,35 @@
     background: yellow;
     display: block;
     margin: auto;
-    transition: .5s ;
+    transition: .3s ;
 }
+
 .nav-links ul li:hover::after{
     width:100%;
 }
 
 .btn{
-    padding: 10px 20px;
+    padding: 5px 10px;
     border: 0;
     font-weight: bold;
     background: yellow;
     cursor: pointer;
+
 }
 
 .nav-links .btn{
     float: right;
 }
 
+
 .banner{
-    margin: 80px 120px;
+    margin: 50px 100px;
     color: #fff;
 }
 
 .banner h1{
     font-size: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .banner h1 span{
@@ -80,6 +86,7 @@
 
 .vertical-bar{
     position: absolute;
+
     height: 100%;
     background: #000;
     top: 0;
@@ -88,10 +95,10 @@
 
 .search-icon{
     height: 60%;
-    width:80px;
+    width: 50px;
 }
 .search-icon .fa{
-    margin: 45px 23px;
+    margin: 25px 23px;
     display: block;
     color: #fff;
     font-size: 20px;
@@ -99,20 +106,19 @@
 }
 
 .social-icons {
-    height: 35%;
-    width: 80px;
+    height: 25%;
+    width: 60px;
     background: yellow;
     text-align: center;
-    padding-top: 27%;
     bottom: 0;
     position: absolute;
 }
 .social-icons .fa{
-    margin: 15px 23px;
+    margin: 7px 13px;
     display: block;
     padding: 8px;
     border: 1px solid #000;
-    border-radius: 90%;
+    border-radius: 50%;
     cursor: pointer;
 }
 .notifications{
@@ -140,12 +146,17 @@
     text-decoration: none;
     color: #000;
     font-size: 13px;
-    margin: 0 10px;
+    margin: 100px 10px;
+}
+
+.contents small{
+    text-align: center;
 }
 .contents p{
-    text-align: right;
+    text-align: center;
     margin-top: 10px;
 }
+
 
 .nav-bar .fa{
     display: none;
@@ -159,18 +170,19 @@
         margin: 80px 40px;
     }
     .banner h1{
-        font-size: 50px;
+        font-size: 35px;
     }
     .notifications{
         width: 100%;
     }
     .nav-bar{
         padding: 10px 30px;
+        
     }
     .fa-bars{
         position: absolute;
-        right:20px;
-        top:10px;
+        right: 20px;
+        top: 10px;
     }
     .nav-bar .fa{
         display: block;
@@ -181,15 +193,15 @@
     }
     .nav-links{
         height:100vh;
-        width: 200px;
+        width: 100px;
         background-color: #000;
         top: 0;
-        right: -200px;
+        right: 0px;
         position: absolute;
         text-align: left;
-        z-index: 2;
+        z-index: 1;
 
-        transition: 0.6s;
+        transition: 0.3s;
     }
     .nav-links ul a{
         display: block;
